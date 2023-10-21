@@ -27,14 +27,14 @@ from typing import Iterator, Dict, List
 import nwalign3 as nw
 import numpy as np
 np.int = int
-__author__ = "Your Name"
-__copyright__ = "Universite Paris Diderot"
-__credits__ = ["Your Name"]
+__author__ = "Desvilles Aurélien"
+__copyright__ = "Universite Paris Cité"
+__credits__ = ["Desvilles Aurélien"]
 __license__ = "GPL"
 __version__ = "1.0.0"
-__maintainer__ = "Your Name"
-__email__ = "your@email.fr"
-__status__ = "Developpement"
+__maintainer__ = "Desvilles Aurélien"
+__email__ = "desvillesaurelien@gmail.com"
+__status__ = "Done"
 
 
 
